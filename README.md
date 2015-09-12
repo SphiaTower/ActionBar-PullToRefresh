@@ -1,3 +1,12 @@
+# This branch added a support for RecyclerFragment
+  
+Please check `\library\src\main\java\uk\co\senab\actionbarpulltorefresh\library\PullToRefreshRecylerFragment.java`
+
+  
+
+* * *
+  
+
 # PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
 
 * * *
