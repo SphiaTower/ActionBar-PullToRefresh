@@ -1,4 +1,4 @@
-package tower.sphia.pulltorefreshautopager.lib;
+package uk.co.senab.actionbarpulltorefresh.library;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
